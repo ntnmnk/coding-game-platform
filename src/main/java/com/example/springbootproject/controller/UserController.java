@@ -31,7 +31,7 @@ public class UserController {
   @Autowired
   private UserService userService;
 
-  @GetMapping("/all")
+  @GetMapping
   public ResponseEntity<List<User>> getAllUsers() {
     try {
       logger.info("Fetching all users");
