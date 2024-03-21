@@ -8,7 +8,7 @@ Gradle 8
 
 
 
-### [✅ POSTMAN COLLECTION ](link)
+### [✅ POSTMAN COLLECTION ](lin)
 
 ## APIs
 -GET /users - Retrieve a list of all registered users<br>
