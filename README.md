@@ -8,7 +8,7 @@ Gradle 8
 
 
 
-### [✅ POSTMAN COLLECTION ](https://api.postman.com/collections/15863601-17872d4d-1bd3-49e0-b962-7949d4321fb7?access_key=PMAT-01HSHE99Q5GN79P2FW8HXPBBAM)
+### [✅ POSTMAN COLLECTION ](link)
 
 ## APIs
 -GET /users - Retrieve a list of all registered users<br>
